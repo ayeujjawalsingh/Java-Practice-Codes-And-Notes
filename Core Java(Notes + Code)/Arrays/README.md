@@ -394,10 +394,10 @@ for (byte t : bytes) {
 
 ### Arrays 1D
 
-![App Screenshot](https://raw.githubusercontent.com/ayeujjawalsingh/DSA-Notes/master/Images/1D_arrays.png)
+![App Screenshot](https://github.com/ayeujjawalsingh/Java-Practice-Codes/blob/master/Core%20Java(Notes%20%2B%20Code)/Assets/1D_arrays.png)
 -
 
 ### Arrays 2D
 
-![App Screenshot](https://raw.githubusercontent.com/ayeujjawalsingh/DSA-Notes/master/Images/2D_arrays.png)
+![App Screenshot](https://github.com/ayeujjawalsingh/Java-Practice-Codes/blob/master/Core%20Java(Notes%20%2B%20Code)/Assets/2D_arrays.png)
 -

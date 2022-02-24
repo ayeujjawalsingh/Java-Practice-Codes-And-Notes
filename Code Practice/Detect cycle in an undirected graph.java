@@ -1,6 +1,6 @@
 // Detect cycle in an undirected graph
 
-// Given a Directed Graph with V vertices (Numbered from 0 to V-1) and E edges, check whether it contains any cycle or not.
+// Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. 
 
 // Question URL :- https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Amazon&sortBy=submissions#
 

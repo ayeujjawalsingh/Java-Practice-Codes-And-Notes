@@ -1,5 +1,5 @@
 ## Detect Cycle in Undirected Graph
-Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. [🔗Goto](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Amazon&sortBy=submissions#) 
+Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. [🔗Goto](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?page=1) 
 
 <details>
 <summary>Full Code</summary>

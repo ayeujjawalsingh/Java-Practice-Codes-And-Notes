@@ -139,7 +139,7 @@ class Intersect {
 ```
 </details>
 
-```
+```java
 /*
  * Node of a linked list
  * class Node {

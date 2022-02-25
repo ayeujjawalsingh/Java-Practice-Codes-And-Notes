@@ -1,16 +1,10 @@
-// Intersection Point in Y Shapped Linked Lists 
+## Intersection Point in Y Shapped Linked Lists 
+ Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other. [🔗Goto](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/?page=1) 
 
-// Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other.
+<details>
+<summary>Full Code</summary>
 
-// Example 1:
-
-// Input:
-// LinkList1 = 3->6->9->common
-// LinkList2 = 10->common
-// common = 15->30->NULL
-// Output: 15
-
-// URL :- https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Amazon&sortBy=submissions#
+```java
 import java.util.*;
 
 class Node {
@@ -142,3 +136,41 @@ class Intersect {
         return q.data;
     }
 }
+```
+</details>
+
+```
+/*
+ * Node of a linked list
+ * class Node {
+ * int data;
+ * Node next;
+ * Node(int d) { data = d; next = null; }
+ * }
+ * Linked List class
+ * class LinkedList
+ * {
+ * Node head; // head of list
+ * }
+ */
+
+class Intersect {
+    // Function to find intersection point in Y shaped Linked Lists.
+    int intersectPoint(Node head1, Node head2) {
+        // code here
+        Node p = head1;
+        Node q = head2;
+        Set<Node> a = new HashSet<Node>();
+        while (p != null) {
+            a.add(p);
+            p = p.next;
+        }
+        while (q != null) {
+            if (a.contains(q))
+                break;
+            q = q.next;
+        }
+        return q.data;
+    }
+}
+```

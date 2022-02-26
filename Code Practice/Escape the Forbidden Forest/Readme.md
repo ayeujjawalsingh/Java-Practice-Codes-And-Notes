@@ -3,6 +3,29 @@ Penelope and her classmates are lost in the Forbidden Forest and the Devil is ou
 Given str1 and str2 denoting the order of trees on either side of the river, find the maximum number of bridges that Penelope can build and save everyone from the Devil. 
 Note: Each tree in the forest belongs to one of the 3 categories represented by * or # or @. [🔗Goto](https://practice.geeksforgeeks.org/problems/a4f19ea532cee502aabec77c07e0d0a45b76ecf9/1#) 
 
+```
+Example 1:
+
+Input:
+str1 = "*@#*" 
+str2 = "*#"
+Output:
+2
+Explanation:
+str1 = "*@#*" and str2 = "*#" 
+Two bridges can be built between the banks 
+of the river in the following manner. 
+* @ # *
+|      |
+*     #
+Example 2:
+
+Input:
+str1 = "***"
+str2 = "##"
+Output:
+0
+```
 <details>
 <summary>Full Code</summary>
 

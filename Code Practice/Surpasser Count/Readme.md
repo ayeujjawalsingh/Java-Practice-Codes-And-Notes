@@ -1,6 +1,6 @@
 ## Surpasser Count
 An element Y is said to be the surpasser of element X if it is a greater element on the right of X. ie, if X = arr[i] and Y = arr[j], i<j and Arr[i] < Arr[j]. 
-Given an array of size N containing distinct integers, find the number of surpassers for each of its elements. [🔗Goto](https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Microsoft&category[]=Arrays&category[]=Strings&sortBy=accuracy#) 
+Given an array of size N containing distinct integers, find the number of surpassers for each of its elements. [🔗Goto](https://practice.geeksforgeeks.org/problems/surpasser-count0615/1/?page=1&difficulty[]=1&status[]=unsolved&category[]=Arrays&sortBy=accuracy#) 
 
 ```
 Example 1:

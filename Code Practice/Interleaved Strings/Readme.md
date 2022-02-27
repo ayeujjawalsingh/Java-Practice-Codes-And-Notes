@@ -1,8 +1,9 @@
 ## Interleaved Strings
 Given strings A, B, and C, find whether C is formed by an interleaving of A and B.
 
-An interleaving of two strings S and T is a configuration such that it creates a new string Y from the concatenation substrings of A and B and |Y| = |A + B| = |C|
+An interleaving of two strings S and T is a configuration such that it creates a new string Y from the concatenation substrings of A and B and |Y| = |A + B| = |C|. [🔗Goto](https://practice.geeksforgeeks.org/problems/interleaved-strings/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Amazon&category[]=Strings&sortBy=submissions#) 
 
+```
 For example:
 
 A = "XYZ"
@@ -15,8 +16,8 @@ Specifically, you just need to create substrings of string A and create substrin
 
 Note: a + b is the concatenation of strings a and b.
 
-Return true if C is formed by an interleaving of A and B, else return false. [🔗Goto](https://practice.geeksforgeeks.org/problems/interleaved-strings/1/?page=1&difficulty[]=1&status[]=unsolved&company[]=Amazon&category[]=Strings&sortBy=submissions#) 
-
+Return true if C is formed by an interleaving of A and B, else return false. 
+```
 <details>
 <summary>Full Code</summary>
 

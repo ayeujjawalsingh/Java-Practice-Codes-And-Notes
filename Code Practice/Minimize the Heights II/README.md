@@ -8,7 +8,7 @@ Note: It is compulsory to increase or decrease (if possible) by K to each tower.
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.io.*;
 import java.util.*;
 
@@ -107,7 +107,7 @@ class Solution {
 ```
 </details>
 
-```
+```java
 class Solution {
     static class Pair {
         int first, second;

@@ -4,7 +4,7 @@ Given an array Arr[] of N integers. Find the contiguous sub-array(containing at 
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.io.*;
 
 class Main {
@@ -57,7 +57,7 @@ class Solution{
 ```
 </details>
 
-```
+```java
 class Solution{
     // arr: input array
     // n: size of array

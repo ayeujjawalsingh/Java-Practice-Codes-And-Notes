@@ -4,7 +4,7 @@ Given an array arr[] and an integer K where K is smaller than size of array, the
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.io.*;
 import java.util.*;
 class GFG {
@@ -49,7 +49,7 @@ class Solution{
 ```
 </details>
 
-```
+```java
 class Solution{
     public static int kthSmallest(int[] arr, int l, int r, int k) 
     { 

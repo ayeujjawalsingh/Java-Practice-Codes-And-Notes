@@ -8,7 +8,7 @@ Remove the loop from the linked list, if it is present. [🔗Goto](https://pract
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.util.*;
 import java.io.*;
 import java.lang.*;
@@ -146,7 +146,7 @@ class Solution
 ```
 </details>
 
-```
+```java
 class Solution
 {
     //Function to remove a loop in the linked list.

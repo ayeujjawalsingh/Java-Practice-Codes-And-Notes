@@ -4,7 +4,7 @@ Given an array A of N elements. Find the majority element in the array. A majori
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.util.*;
 import java.io.*;
 import java.lang.*;
@@ -52,7 +52,7 @@ class Solution
 ```
 </details>
 
-```
+```java
 class Solution
 {
     static int majorityElement(int a[], int size)

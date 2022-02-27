@@ -6,7 +6,7 @@ Note: Follow 0 based indexing. [🔗Goto](https://practice.geeksforgeeks.org/pro
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.io.*;
 import java.util.*; 
 
@@ -71,7 +71,7 @@ class Solution
 ```
 </details>
 
-```
+```java
 class Solution
 { 
     //Function to find if there is a celebrity in the party or not.

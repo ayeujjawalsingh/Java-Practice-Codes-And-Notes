@@ -4,7 +4,7 @@ You are given N elements and your task is to Implement a Stack in which you can 
 <details>
 <summary>Full Code</summary>
 
-```
+```java
 import java.util.*;
 
 
@@ -102,7 +102,7 @@ class GfG
 ```
 </details>
 
-```
+```java
 class GfG
 {
     int minEle;

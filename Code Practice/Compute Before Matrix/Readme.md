@@ -1,6 +1,13 @@
 ## Compute Before Matrix
 For a given 2D Matrix before, the corresponding cell (x, y) of the after matrix is calculated as follows: 
 
+res = 0;
+for(i = 0; i <= x; i++){
+    for( j = 0; j <= y; j++){              
+        res += before(i,j);
+    }
+}
+after(x,y) = res;
 
 Given an N*M 2D-Matrix after, your task is to find the corresponding before matrix for the given matrix.[🔗Goto](https://practice.geeksforgeeks.org/problems/85781966a9db2a1ac17eaaed26a947eba5740d56/1#) 
 

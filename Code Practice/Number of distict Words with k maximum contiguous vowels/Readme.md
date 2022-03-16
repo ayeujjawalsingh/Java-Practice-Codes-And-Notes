@@ -1,4 +1,4 @@
-## Nodes at given distance in binary tree
+## Number of distict Words with k maximum contiguous vowels
 Find the number of unique words consisting of lowercase alphabets only of length N that can be formed with at-most K contiguous vowels. [🔗Goto](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1#) 
 
 ```

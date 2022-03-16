@@ -273,3 +273,8 @@ List<Integer> al = new ArrayList<Integer>();
         System.out.println(obj);
 ```
 
+## Short Notes
+
+### Arraylist
+
+![App Screenshot](https://github.com/ayeujjawalsingh/Java-Practice-Codes/blob/master/Core%20Java(Notes%20%2B%20Code)/Assets/arraylist.png)

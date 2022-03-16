@@ -390,7 +390,7 @@ for (byte t : bytes) {
    System.out.format("0x%x ", t);
 }
 ```
-## Screenshots
+## Short Notes
 
 ### Arrays 1D
 

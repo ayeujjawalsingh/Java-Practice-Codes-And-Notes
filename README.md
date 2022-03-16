@@ -1,16 +1,13 @@
-# Complete Java + DSA Syllabus
+# <p align="center"> Complete Java + DSA Syllabus </p>
 
-  
-## Syallbus...
+## Syallbus
 
-- Functions
-    - Introduction
+- ### Functions
     - Scoping in Java
     - Shadowing
     - Variable Length Arguments
     - Overloading
-- Arrays
-    - Introduction
+- ### Arrays
     - Memory management
     - Input and Output
     - ArrayList Introduction
@@ -24,15 +21,13 @@
         - Selection Sort
         - Bubble Sort
         - Cyclic Sort
-- Pattern questions
-- Strings
-    - Introduction
+- ### Pattern questions(Self Practice)
+- ### Strings
     - How Strings work
     - Comparison of methods
     - Operations in Strings
     - StringBuilder in java
-- Maths for DSA
-    - Introduction
+- ### Maths for DSA
     - Complete Bitwise Operators
     - Range of numbers
     - Prime numbers
@@ -43,8 +38,7 @@
     - Number Theory
     - HCF / LCM
     - Euclidean algorithm
-- Recursion
-    - Introduction
+- ### Recursion
     - Flow of recursive programs - stack
     - Tree building of function calls
     - Tail recursion
@@ -61,8 +55,7 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
-- Space and Time Complexity Analysis
-    - Introduction
+- ### Space and Time Complexity Analysis
     - Comparisons of various cases
     - Solving Linear Recurrence Relations
     - Solving Divide and Conquer Recurrence Relations
@@ -72,8 +65,7 @@
     - Complexity discussion of all the problems we do
     - Space Complexity
     - NP-Completeness Introduction
-- Object Oriented Programming
-    - Introduction
+- ### Object Oriented Programming
     - Classes & its instances
     - this keyword in Java
     - Properties
@@ -98,30 +90,26 @@
     - Vector Class
     - Lambda Expression 
     - Enums
-- Linked List
-    - Introduction
+- ### Linked List
     - Singly + Doubly + Circular LinkedList
     - Fast and slow pointer
     - Cycle Detection
     - Reversal of LinkedList
     - Linked List + Recursion
-- Stacks & Queues
-    - Introduction
+- ### Stacks & Queues
     - Push efficient
     - Pop efficient
     - Circular Queue
     - Queue using Stack and Vice versa
     - Interview problems
-- Trees
-    - Introduction
+- ### Trees
     - Binary Trees
     - Binary Search Trees
     - DFS
     - BFS
     - AVL Trees
     - Segment Tree
-- Heaps
-    - Introduction
+- ### Heaps
     - Theory
     - Priority Queue
     - Heapsort
@@ -129,8 +117,7 @@
     - k-way merge
     - Top k elements
     - Interval problems
-- HashMap
-    - Introduction
+- ### HashMap
     - Theory - how it works
     - Comparisons of various forms
     - Limitations and how to solve
@@ -141,9 +128,8 @@
     - Chaining
     - Probing
     - Huffman-Encoder
-- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Graphs
-    - Introduction
+- ### Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
+- ### Graphs
     - BFS
     - DFS
     - Working with graph components
@@ -154,8 +140,7 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
-- Dynamic Programming
-    - Introduction
+- ### Dynamic Programming
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - Complexity Analysis
     - 0/1 Knapsack
@@ -163,10 +148,10 @@
     - Unbounded Knapsack
     - Subsequence questions
     - String DP
-- Greedy Algorithms
-- Tries
+- ### Greedy Algorithms
+- ### Tries
 
-### Advanced concepts apart from interviews 
+## Advanced concepts apart from interviews 
 - Fast IO
 - File handling
 - Bitwise + DP

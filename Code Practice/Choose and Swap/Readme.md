@@ -13,7 +13,6 @@ doing the replacement operation once we get,
 aacd and this is the lexicographically
 smallest string possible. 
  
-
 Example 2:
 
 Input:

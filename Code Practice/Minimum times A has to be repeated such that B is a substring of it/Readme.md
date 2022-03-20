@@ -51,8 +51,7 @@ class GFG {
 //User function Template for Java
 
 class Solution 
-{
-    
+{ 
     private static int func(String A, String B, int i)
     {
         //i is the starting index from which A will begin from.

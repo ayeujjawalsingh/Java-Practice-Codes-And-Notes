@@ -63,13 +63,9 @@ class Array {
 	}
 }
 
-
 // } Driver Code Ends
 
-
 //User function Template for Java
-
-
 
 class Complete{
     public static int[] Smallestonleft (int arr[], int n) {
